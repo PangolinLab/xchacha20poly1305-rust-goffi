@@ -1,3 +1,6 @@
+//go:build cgo
+// +build cgo
+
 package xchacha20_poly1305_ffi
 
 import (
